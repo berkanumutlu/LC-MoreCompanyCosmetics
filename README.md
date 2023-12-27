@@ -30,3 +30,7 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
     <a href="screenshots/v1.0.0/others.png" target="_blank" rel="nofollow">
         <img src="screenshots/v1.0.0/others.png" alt="Christmas Gift Box, Crown, Pajama Hat, Shower Cap, Sombrero Hat, Traffic Cone, Viking Helmet" height="100">
     </a>
+
+## License
+
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
