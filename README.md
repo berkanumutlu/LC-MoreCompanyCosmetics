@@ -5,6 +5,9 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 - [Version 1.0.0 Package List](#v100)
   > axehat, axehat2, christmasgiftbox, cowboyhat, cowboyhat2, cowboywomanhat, crown, pajamahat, plagueblackleatherhat, plagueblackleathermask, plaguebrownleatherhat, plaguebrownleathermask, showercap, sombrerohat, trafficcone, vikinghelmet
 
+- [Version 1.0.1 Package List](#v101)
+  > axe, hammer, hoe, pickaxe, scythe, spade
+
 ## v1.0.0
 
 - Cowboy Hats
@@ -29,6 +32,14 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 
     <a href="screenshots/v1.0.0/others.png" target="_blank" rel="nofollow">
         <img src="screenshots/v1.0.0/others.png" alt="Christmas Gift Box, Crown, Pajama Hat, Shower Cap, Sombrero Hat, Traffic Cone, Viking Helmet" height="100">
+    </a>
+
+## v1.0.1
+
+- Tool Set Accessories
+
+    <a href="screenshots/v1.0.1/toolset.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.1/toolset.png" alt="Tool Set Accessories" height="100">
     </a>
 
 ## License
