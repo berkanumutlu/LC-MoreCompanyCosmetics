@@ -48,6 +48,12 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
         <img src="screenshots/v1.0.1/vehicles.png" alt="Vehicles (Hatchback 1988, Sedan, T-54 Tank)" height="100">
     </a>
 
+- Pumpkin
+
+    <a href="screenshots/v1.0.1/pumpkin.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.1/pumpkin.png" alt="Pumpkin" height="100">
+    </a>
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
