@@ -54,10 +54,10 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
         <img src="screenshots/v1.0.1/pumpkin.png" alt="Pumpkin" height="100">
     </a>
 
-- Viking Shield
+- Rusty Knife, Pipe Wrench, Stethoscope
 
-    <a href="screenshots/v1.0.1/viking-shield.png" target="_blank" rel="nofollow">
-        <img src="screenshots/v1.0.1/viking-shield.png" alt="Viking Shield" height="100">
+    <a href="screenshots/v1.0.1/others.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.1/others.png" alt="Rusty Knife, Pipe Wrench, Stethoscope" height="100">
     </a>
 
 ## License
