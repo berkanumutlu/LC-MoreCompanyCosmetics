@@ -6,7 +6,7 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
   > axehat, axehat2, christmasgiftbox, cowboyhat, cowboyhat2, cowboywomanhat, crown, pajamahat, plagueblackleatherhat, plagueblackleathermask, plaguebrownleatherhat, plaguebrownleathermask, showercap, sombrerohat, trafficcone, vikinghelmet
 
 - [Version 1.0.1 Package List](#v101)
-  > axe, hammer, hoe, pickaxe, scythe, spade
+  > axeaccessory, hammer, hoe, pickaxe, scythe, spade, hatchback1988, sedan, tank-t54, pumpkin, vikingshield, rustyknife, pipewrench, stethoscope
 
 ## v1.0.0
 
@@ -52,6 +52,12 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 
     <a href="screenshots/v1.0.1/pumpkin.png" target="_blank" rel="nofollow">
         <img src="screenshots/v1.0.1/pumpkin.png" alt="Pumpkin" height="100">
+    </a>
+
+- Viking Shield
+
+    <a href="screenshots/v1.0.1/viking-shield.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.1/viking-shield.png" alt="Viking Shield" height="100">
     </a>
 
 - Rusty Knife, Pipe Wrench, Stethoscope
