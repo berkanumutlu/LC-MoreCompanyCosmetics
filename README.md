@@ -9,7 +9,7 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
   > axeaccessory, hammer, hoe, pickaxe, scythe, spade, hatchback1988, sedan, tank-t54, pumpkin, vikingshield, rustyknife, pipewrench, stethoscope
 
 - [Version 1.0.2 Package List](#v102)
-  > vikingshield2
+  > fantasyaxe, fantasyshield, policecop, policeshield, policeshieldblue, policeshieldcheese, policeshieldplain, romangladius, romanshield, romanshield2, romanshield3, skullshield, vikingshield2
 
 ## v1.0.0
 
