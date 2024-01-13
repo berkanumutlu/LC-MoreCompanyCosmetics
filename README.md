@@ -83,11 +83,16 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
         <img src="screenshots/v1.0.2/skull-shield.png" alt="Skull Shield" height="100">
     </a>
 
-
 - Fantasy Axe and Shield
 
     <a href="screenshots/v1.0.2/fantasy-shield-and-axe.png" target="_blank" rel="nofollow">
         <img src="screenshots/v1.0.2/fantasy-shield-and-axe.png" alt="Fantasy Axe and Shield" height="100">
+    </a>
+
+- Roman Shields and Gladius
+
+    <a href="screenshots/v1.0.2/roman-shields-and-gladius.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.2/roman-shields-and-gladius.png" alt="Roman Shields and Gladius" height="100">
     </a>
 
 ## License
