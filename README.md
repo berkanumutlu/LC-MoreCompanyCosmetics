@@ -77,6 +77,12 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
         <img src="screenshots/v1.0.2/viking-shield2.png" alt="Viking Shield 2" height="100">
     </a>
 
+- Skull Shield
+
+    <a href="screenshots/v1.0.2/skull-shield.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.2/skull-shield.png" alt="Skull Shield" height="100">
+    </a>
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
