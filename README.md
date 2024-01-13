@@ -8,6 +8,9 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 - [Version 1.0.1 Package List](#v101)
   > axeaccessory, hammer, hoe, pickaxe, scythe, spade, hatchback1988, sedan, tank-t54, pumpkin, vikingshield, rustyknife, pipewrench, stethoscope
 
+- [Version 1.0.2 Package List](#v102)
+  > vikingshield2
+
 ## v1.0.0
 
 - Cowboy Hats
@@ -64,6 +67,14 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 
     <a href="screenshots/v1.0.1/others.png" target="_blank" rel="nofollow">
         <img src="screenshots/v1.0.1/others.png" alt="Rusty Knife, Pipe Wrench, Stethoscope" height="100">
+    </a>
+
+## v1.0.2
+
+- Viking Shield 2
+
+    <a href="screenshots/v1.0.2/viking-shield2.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.2/viking-shield2.png" alt="Viking Shield 2" height="100">
     </a>
 
 ## License
