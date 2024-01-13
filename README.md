@@ -84,10 +84,10 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
     </a>
 
 
-- Fantasy Shield and Axe
+- Fantasy Axe and Shield
 
     <a href="screenshots/v1.0.2/fantasy-shield-and-axe.png" target="_blank" rel="nofollow">
-        <img src="screenshots/v1.0.2/fantasy-shield-and-axe.png" alt="Fantasy Shield and Axe" height="100">
+        <img src="screenshots/v1.0.2/fantasy-shield-and-axe.png" alt="Fantasy Axe and Shield" height="100">
     </a>
 
 ## License
