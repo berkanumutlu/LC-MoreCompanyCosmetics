@@ -105,8 +105,14 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 
 - Baseball Bat
 
-    <a href="screenshots/v1.0.3/bsaeballbat.png" target="_blank" rel="nofollow">
-        <img src="screenshots/v1.0.3/bsaeballbat.png" alt="Baseball Bat" height="100">
+    <a href="screenshots/v1.0.3/baseballbat.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/baseballbat.png" alt="Baseball Bat" height="100">
+    </a>
+
+- Rough Knives
+
+    <a href="screenshots/v1.0.3/rough-knives.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/rough-knives.png" alt="Rough Knives" height="100">
     </a>
 
 ## License
