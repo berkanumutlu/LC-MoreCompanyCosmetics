@@ -11,6 +11,9 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 - [Version 1.0.2 Package List](#v102)
   > fantasyaxe, fantasyshield, policecop, policeshield, policeshieldblue, policeshieldcheese, policeshieldplain, romangladius, romanshield, romanshield2, romanshield3, skullshield, vikingshield2
 
+- [Version 1.0.3 Package List](#v103)
+  > baseballbat, roughaxe, roughdagger, roughdaggerblue, roughdaggerred, tank-t90, ak47riflemodded, ak74mrifle, battleaxe, grenade, m1a1submachinegun, pistol, builderstorchorange, builderstorchyellow, flashlight, flashlightgolden   
+
 ## v1.0.0
 
 - Cowboy Hats
@@ -99,6 +102,38 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 
     <a href="screenshots/v1.0.2/police-shields-and-cop.png" target="_blank" rel="nofollow">
         <img src="screenshots/v1.0.2/police-shields-and-cop.png" alt="Police Shields and Cop" height="100">
+    </a>
+
+## v1.0.3
+
+- Baseball Bat
+
+    <a href="screenshots/v1.0.3/baseballbat.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/baseballbat.png" alt="Baseball Bat" height="100">
+    </a>
+
+- Rough Knives
+
+    <a href="screenshots/v1.0.3/rough-knives.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/rough-knives.png" alt="Rough Knives" height="100">
+    </a>
+
+- T90 Tank
+
+    <a href="screenshots/v1.0.3/t90-tank.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/t90-tank.png" alt="T90 Tank" height="100">
+    </a>
+
+- Weapons (AK47 Rifle Modded, AK-74M Rifle, M1A1 Submachine Gun, Pistol, Battle Axe, Grenade)
+
+    <a href="screenshots/v1.0.3/weapons.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/weapons.png" alt="Weapons (AK47 Rifle Modded, AK-74M Rifle, M1A1 Submachine Gun, Pistol, Battle Axe, Grenade)" height="100">
+    </a>
+
+- Flashlights
+
+    <a href="screenshots/v1.0.3/flashlights.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/flashlights.png" alt="Flashlights" height="100">
     </a>
 
 ## License
