@@ -11,6 +11,9 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
 - [Version 1.0.2 Package List](#v102)
   > fantasyaxe, fantasyshield, policecop, policeshield, policeshieldblue, policeshieldcheese, policeshieldplain, romangladius, romanshield, romanshield2, romanshield3, skullshield, vikingshield2
 
+- [Version 1.0.3 Package List](#v103)
+  > baseballbat, roughaxe, roughdagger, roughdaggerblue, roughdaggerred, tank-t90, ak47riflemodded, ak74mrifle, battleaxe, grenade, m1a1submachinegun, pistol, builderstorchorange, builderstorchyellow, flashlight, flashlightgolden   
+
 ## v1.0.0
 
 - Cowboy Hats
