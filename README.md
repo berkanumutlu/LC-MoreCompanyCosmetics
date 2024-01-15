@@ -121,6 +121,12 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
         <img src="screenshots/v1.0.3/t90-tank.png" alt="T90 Tank" height="100">
     </a>
 
+- Weapons (AK47 Rifle Modded, AK-74M Rifle, M1A1 Submachine Gun, Pistol, Battle Axe, Grenade)
+
+    <a href="screenshots/v1.0.3/weapons.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/weapons.png" alt=" " height="100">
+    </a>
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
