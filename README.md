@@ -101,6 +101,14 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
         <img src="screenshots/v1.0.2/police-shields-and-cop.png" alt="Police Shields and Cop" height="100">
     </a>
 
+## v1.0.3
+
+- Baseball Bat
+
+    <a href="screenshots/v1.0.3/bsaeballbat.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/bsaeballbat.png" alt="Baseball Bat" height="100">
+    </a>
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
