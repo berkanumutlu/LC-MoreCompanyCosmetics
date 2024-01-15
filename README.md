@@ -115,6 +115,12 @@ I added more cosmetic items for Lethal Company(v45) MoreCompanyCosmestics(v1.7.2
         <img src="screenshots/v1.0.3/rough-knives.png" alt="Rough Knives" height="100">
     </a>
 
+- T90 Tank
+
+    <a href="screenshots/v1.0.3/t90-tank.png" target="_blank" rel="nofollow">
+        <img src="screenshots/v1.0.3/t90-tank.png" alt="T90 Tank" height="100">
+    </a>
+
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE) for more information.
